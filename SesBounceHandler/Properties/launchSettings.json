@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "SesBounceHandler": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
